@@ -7,7 +7,7 @@ A local chatbot application built with Chainlit and Ollama (Llama vision 3.2), f
 - No cloud dependencies
 - Image analysis capabilities
 - Real-time streaming responses
-- 🔄 Conversation memory
+- Conversation memory
 
 
 ## Prerequisites
